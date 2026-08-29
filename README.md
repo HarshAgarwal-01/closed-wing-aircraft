@@ -82,7 +82,6 @@ Representative results included:
 ## Repository Contents
 
 - `report/` — Detailed project report
-- `presentation/` — Project presentation
 - `figures/` — Selected CAD, CFD, experimental and structural figures
 - `results/` — Selected numerical and experimental results
 
